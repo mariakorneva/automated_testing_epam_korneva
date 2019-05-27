@@ -37,3 +37,4 @@ That's not the shape
 The shape of my heart
 
 Add some new string for the first commit in the new branch feature
+Add the new string for the second commit in the new branch feature
